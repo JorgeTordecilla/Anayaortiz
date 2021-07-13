@@ -264,7 +264,7 @@ header .navbar {
 
 @media (max-width: 400px) {
     .navbar .navbar-brand h2 {
-        font-size: 20px;
+        font-size: 1rem;
     }
 }
 .navbar .navbar-brand h2 em {
